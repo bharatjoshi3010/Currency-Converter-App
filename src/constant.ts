@@ -25,9 +25,9 @@ export const currencyByRupee: Currency[] = [
     },
     {
         name: 'DINAR',
-        value: 1.5909089,
+        value: 0.011,
         flag: '🇨🇿',
-        symbol: 'ك',
+        symbol: 'Dinar',
     },{ 
         name: 'BITCOIN',
         value: 0.000000543544886,

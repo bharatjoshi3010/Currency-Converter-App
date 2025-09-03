@@ -23,12 +23,13 @@ const styles = StyleSheet.create({
     },
     flag:{
         fontSize: 28,
-        color : '#da2020ff',
+        color : '#ffffff',
         marginBottom: 4
     },
     country:{
+        fontWeight :'bold',
         fontSize: 14,
-        color : '#d63131ff',
+        color : '#ffffff',
     }
 })
 
