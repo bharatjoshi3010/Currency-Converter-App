@@ -9,8 +9,6 @@ import CurrencyButton from './components/CurrencyButton';
 
 //imprting the snackBar
 import Snackbar from 'react-native-snackbar'; 
-// import { FlatList } from 'react-native/types_generated/index';
-// import { StatusBar } from 'react-native/types_generated/index';
 //popup kinda thing
 
 
