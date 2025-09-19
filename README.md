@@ -34,3 +34,7 @@ While building this app, I explored and implemented:
 - **TypeScript** – Strongly typed JavaScript  
 - **SnackBar** – For interactive alerts  
 - **FlatList** – Efficient list rendering
+
+## Use it
+- clone it or download it (Directly use on your android device )
+- [**Download APK**](https://github.com/bharatjoshi3010/Currency-Converter-App/raw/main/android/app-release.apk)
